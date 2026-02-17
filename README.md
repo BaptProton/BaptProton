@@ -70,7 +70,7 @@ My public repo that regroups all the projects done during the 42 CommonCore.
 
 ## 📈 Current Goals
 
-- Continue improving my software development skills
+- Continue improving my software and web development skills
 - Contribute to open-source projects
 - Work on real and collaborative projects
 
