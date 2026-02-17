@@ -12,8 +12,8 @@ I am a junior developer passionate about software development and continuous lea
 I enjoy building real projects to improve my skills and deepen my understanding of modern technologies.
 
 Currently, I am focusing on:
-- Developing with **C, C++, Typescript, Javascript**
-- Improving my skills in **Docker, kubernetes**
+- Developing with **Typescript, Javascript, PostgreSql**
+- Improving my skills in **Docker, kubernetes, SQL**
 - Building personal projects to practice and experiment
 
 ---
@@ -28,7 +28,7 @@ Currently, I am focusing on:
 - Frameworks: Fastify, Node.js
 
 **Concepts**
-- Object-Oriented Programming
+- Object-Oriented Programming / Non-OOP
 - Algorithms & Data Structures  
 - Web / Backend / Data Development
 
