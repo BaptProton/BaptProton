@@ -60,7 +60,7 @@ HTTP/1.1 server implementation in C++ from scratch. Handles multiple connections
 
 🔹 **Transcendance**
 Full-stack web application featuring real-time multiplayer Pong, user authentication, and responsive UI. Built with TypeScript/JavaScript, NodeJs, Sqlite, and Fatify.
-➡️ Repo: https://github.com/BaptProton/transcendance
+➡️ Repo: https://github.com/BaptProton/Transcendence
 
 ---
 
