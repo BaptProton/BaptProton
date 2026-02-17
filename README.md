@@ -74,5 +74,5 @@ Full-stack web application featuring real-time multiplayer Pong, user authentica
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/[your-profile]
-- Email: [professional email]
+- LinkedIn: https://www.linkedin.com/in/baptiste-proton-180404326/
+- Email: b.proton@hotmail.com
