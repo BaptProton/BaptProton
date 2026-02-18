@@ -15,6 +15,7 @@ Currently, I am focusing on:
 - Developing with **Typescript, Javascript, PostgreSql**
 - Improving my skills in **Docker, kubernetes, SQL**
 - Building personal projects to practice and experiment
+- I also want to learn **Rust** in the future
 
 ---
 
@@ -28,7 +29,7 @@ Currently, I am focusing on:
 - Frameworks: Fastify, Node.js
 
 **Concepts**
-- Object-Oriented Programming / Non-OOP
+- Object-Oriented Programming / procedural programming
 - Algorithms & Data Structures  
 - Web / Backend / Data Development
 
