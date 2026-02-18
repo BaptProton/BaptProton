@@ -1,6 +1,6 @@
 # Hi, I'm Baptiste Proton 👋
 
-🎯 Junior Developer in Web, C, C++
+🎯 Junior Developer in Web, C, C++ applications
 📍 Based in Sierre, Switzerland.
 💡 Interested in learning new technologies and developping clean projects
 
