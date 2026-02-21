@@ -13,7 +13,7 @@ I enjoy building real projects to improve my skills and deepen my understanding 
 
 Currently, I am focusing on:
 - Developing with **Typescript, Javascript, PostgreSql**
-- Improving my skills in **Docker, kubernetes, SQL**
+- Improving my skills in **Docker, kubernetes, SQL, express, typescript**
 - Building personal projects to practice and experiment
 - I also want to learn **Rust** in the future
 
